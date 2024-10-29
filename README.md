@@ -1,6 +1,4 @@
-<h1 align="center">👋 Hello, World!</h1>
-<h3 align="center">I'm Tommaso</h3>
-
+<h1 align="center"> 👋 Hello, World!I'm Tommaso. <h1>
 <h2 align="center">About me</h2>
 
   🎓 Bachelor's degree in Computer Engineering at [University of Pisa](https://www.unipi.it/)
@@ -9,7 +7,7 @@
    
   🔭 Interested in 3D Printing, AI, Automation and System Optimization.
 
-  ♟️ One More Turn: Passionate gamer of strategic and management games. Always exploring new worlds, where I sometimes stumble upon a strange old man who warns, "It's dangerous to go alone! Take this!"
+  ♟️ One More Turn. Passionate gamer of strategic and management games. Always exploring new worlds, where I sometimes stumble upon a strange old man who warns: "It's dangerous to go alone! Take this!".
 
   🛠️ Hands-on with DIY, constantly crafting and building creative solutions.
 
