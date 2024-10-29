@@ -1,4 +1,5 @@
 <h2 align="center">About me</h2>
+
   🎓 Bachelor's degree in Computer Engineering at [University of Pisa](https://www.unipi.it/)
   
   🎓 Currently studying for the Computer Engineering Cyber-Physical Systems Master's degree at [University of Pisa](https://www.unipi.it/)
