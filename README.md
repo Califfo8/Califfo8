@@ -5,7 +5,7 @@
   
   🎓 Currently studying for the Computer Engineering Cyber-Physical Systems Master's degree at [University of Pisa](https://www.unipi.it/)
    
-  🔭 Interested in Automation, System Optimization, Cyber Security, 3D Printing and AI.
+  🔭 Interested in Automation, System Optimization, Cyber Security and 3D Printing.
 
   ♟️ One More Turn. Passionate gamer of strategic and management games. Always exploring new worlds, where I sometimes stumble upon a strange old man who warns: "It's dangerous to go alone! Take this!".
 
