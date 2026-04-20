@@ -49,7 +49,7 @@ Neo4j
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,bash,git,docker,latex,md" />
+    <img src="https://skillicons.dev/icons?i=linux,bash,git,docker" />
   </a>
   
   <img src="./icons/Podman-Dark.svg" alt="Podman" width=48/>
