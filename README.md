@@ -1,9 +1,9 @@
 <h1 align="center"> Hello, World!👋 I'm Tommaso. </h1>
 <h2 align="center">About me</h2>
 
-  🎓 Bachelor's degree in Computer Engineering at [University of Pisa](https://www.unipi.it/)
+  🎓 BSc in Computer Engineering at [University of Pisa](https://www.unipi.it/)
   
-  🎓 Currently studying for the Computer Engineering Cyber-Physical Systems Master's degree at [University of Pisa](https://www.unipi.it/)
+  🎓 MSc in Computer Engineering at [University of Pisa](https://www.unipi.it/)
    
   🔭 Interested in Automation, System Optimization, Cyber Security and 3D Printing.
 
@@ -11,60 +11,55 @@
 
   🛠️ Hands-on with DIY, constantly crafting and building creative solutions.
 
-<h2 align="center">Skills</h1>
+<h2 align="center">Skills</h2>
 
-<h3 align="center">Languages</h3>
+<h3 align="center">Programming</h3>
 
-<div align="center">
-<div align="center">
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,cpp,py,java,kotlin" />
+  </a>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/erlang/erlang-original.svg" alt="Erlang" width=40/>
+</p>
+<!---
+erlang
+--->
 
+<h3 align="center">Web Development</h3>
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/c/c-original.svg" alt="C" width=40/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/cplusplus/cplusplus-original.svg" alt="C" width=40/>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,php" />
+  </a>
+</p>
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/python/python-original.svg" alt="Python" width=40/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/erlang/erlang-original.svg" alt="Erlang" width=40/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/php/php-original.svg" alt="Php" width=40/>
+<h3 align="center">Databases</h3>
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/javascript/javascript-original.svg" alt="JavaScript" width=40/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/html5/html5-original.svg" alt="HTML" width=40/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/css3/css3-original.svg" alt="CSS" width=40/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/kotlin/kotlin-original.svg" alt="KOTLIN" width=40/>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mysql,redis,mongodb" />
+  </a>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/neo4j/neo4j-original.svg" alt="Neo4j" width=40/>
+</p>
+<!---
+Neo4j
+--->
 
-</div>
-</div>
+<h3 align="center">Tools & Platforms</h3>
 
-<h3 align="center">Tools</h3>
-
-<div align="center">
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/linux/linux-original.svg" alt="Linux" width=40/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/bash/bash-original.svg" alt="Bash" width=40/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/git/git-original.svg" alt="Git" width=40/>
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/docker/docker-original.svg" alt="C" width=40/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/grafana/grafana-original.svg" alt="Grafana" width=40/>
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/mysql/mysql-original.svg" alt="Mysql" width=40/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/mongodb/mongodb-original.svg" alt="MongoDB" width=40/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/redis/redis-original.svg" alt="Redis" width=40/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/neo4j/neo4j-original.svg" alt="Neo4j" width=40/>
-
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/flask/flask-original.svg" alt="Flask" width=40/>
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/pytorch/pytorch-original.svg" alt="Pytorch" width=40/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/tensorflow/tensorflow-original.svg" alt="Tensorflow" width=40/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/pandas/pandas-original.svg" alt="Pandas" width=40/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit learn" width=40/>
-
-
-
-
-
-</div>
-</div>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=linux,bash,git,docker,latex,md" />
+  </a>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/podman/podman-original.svg" alt="Podman" width=40/>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=spring,flask,nginx" />
+  </a>
+</p>
+<!---
+podman,proxmox
+Pytorch Tensorflow Pandas Scikit learn
+--->
 
 <h2 align="center">Stats</h2>
 
