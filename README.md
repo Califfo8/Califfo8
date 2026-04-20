@@ -19,7 +19,7 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=c,cpp,py,java,kotlin" />
   </a>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/erlang/erlang-original.svg" alt="Erlang" width=40/>
+  <img src="./icons/Erlang-Dark.svg" alt="Erlang" width=48/>
 </p>
 <!---
 erlang
@@ -39,7 +39,7 @@ erlang
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=mysql,redis,mongodb" />
   </a>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/neo4j/neo4j-original.svg" alt="Neo4j" width=40/>
+  <img src="./icons/Neo4j-Dark.svg" alt="Neo4j" width=48/>
 </p>
 <!---
 Neo4j
@@ -51,7 +51,13 @@ Neo4j
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=linux,bash,git,docker,latex,md" />
   </a>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/podman/podman-original.svg" alt="Podman" width=40/>
+  
+  <img src="./icons/Podman-Dark.svg" alt="Podman" width=48/>
+  
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=latex,md" />
+  </a>
+  
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=spring,flask,nginx" />
   </a>
