@@ -52,14 +52,10 @@ Neo4j
     <img src="https://skillicons.dev/icons?i=linux,bash,git,docker" />
   </a>
   
-  <img src="./icons/Podman-Dark.svg" alt="Podman" width=48/>
+  <img src="./icons/Podman.svg" alt="Podman" width=48/>
   
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=latex,md" />
-  </a>
-  
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=spring,flask,nginx" />
+    <img src="https://skillicons.dev/icons?i=latex,md,spring,flask,nginx" />
   </a>
 </p>
 <!---
