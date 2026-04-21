@@ -5,7 +5,7 @@
   
   🎓 MSc in Computer Engineering at [University of Pisa](https://www.unipi.it/)
    
-  🔭 Interested in Automation, System Optimization, Cyber Security and 3D Printing.
+  🔭 Interested in Automation, System Optimization, Cybersecurity and 3D Printing.
 
   ♟️ One More Turn. Passionate gamer of strategic and management games. Always exploring new worlds, where I sometimes stumble upon a strange old man who warns: "It's dangerous to go alone! Take this!".
 
